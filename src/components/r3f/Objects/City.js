@@ -23,4 +23,4 @@ export default function Model({ ...props }) {
   )
 }
 
-useGLTF.preload('../../../models/starter-scene.glb')
+useGLTF.preload(City)
